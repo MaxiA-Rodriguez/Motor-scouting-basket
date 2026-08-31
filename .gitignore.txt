@@ -1,0 +1,10 @@
+# Ignorar bases de datos y reportes generados
+datos_crudos/
+mapas_tiros/
+Mapas_Tiro/
+*.xlsx
+*.png
+
+# Ignorar caché de Python
+__pycache__/
+*.pyc
